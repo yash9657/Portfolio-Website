@@ -12,7 +12,7 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        I am a budding full stack developer with previous client experience in the web domain. I also enjoy doing Competitive Programming, Data Structures and Math.
+        I am a full stack developer with proficiency in MERN stack. I also enjoy doing Competitive Programming, Data Structures and Math.
       </SectionText>
       <Button onClick={() => window.open('https://drive.google.com/file/d/1d4hGCsX90DsagzgyWETnmAKzD2T2EoY7/view?usp=sharing')}>Download CV</Button>
     </LeftSection>

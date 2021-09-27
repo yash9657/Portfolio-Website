@@ -39,7 +39,7 @@ const Technologies = () =>  (
           <ListTitle>Competitive</ListTitle>
           <ListParagraph>
             Experience with <br />
-            C++ Python Java
+            C++, Python, Java
           </ListParagraph>
         </ListContainer>
       </ListItem>
